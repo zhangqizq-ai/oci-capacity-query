@@ -1,0 +1,4 @@
+interface:
+  display_name: "OCI Capacity Checker"
+  short_description: "Check OCI Compute host capacity and quota for a shape or total OCPU request."
+  default_prompt: "Check OCI host capacity for VM E5 with total 500 OCPUs in Ashburn across all ADs."
