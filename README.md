@@ -50,15 +50,7 @@ The helper reads the tenancy OCID from your OCI CLI config by default. You can a
 
 ### 2. Install the skill in Codex
 
-Install from this GitHub repository by pointing Codex at the skill folder:
-
-```bash
-install-skill-from-github.py --repo <owner>/oci-capacity-query --path skills/oci-capacity-checker
-```
-
-Replace `<owner>` with the GitHub owner or organization that hosts this repo.
-
-After installing, restart Codex so it can load the new skill.
+Detailed installation instructions refer to [Install To Codex](install%20to%20codex.md).
 
 ### 3. Use with other agents
 
